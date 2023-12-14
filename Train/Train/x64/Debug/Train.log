@@ -1,0 +1,12 @@
+﻿  Trn.cpp
+C:\c++\YaAcademy\Train\Train\Trn.cpp(10,22): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\c++\YaAcademy\Train\Train\Trn.cpp(10,22): warning C4267:         with
+C:\c++\YaAcademy\Train\Train\Trn.cpp(10,22): warning C4267:         [
+C:\c++\YaAcademy\Train\Train\Trn.cpp(10,22): warning C4267:             _Ty=int
+C:\c++\YaAcademy\Train\Train\Trn.cpp(10,22): warning C4267:         ]
+C:\c++\YaAcademy\Train\Train\Trn.cpp(14,21): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\c++\YaAcademy\Train\Train\Trn.cpp(14,21): warning C4267:         with
+C:\c++\YaAcademy\Train\Train\Trn.cpp(14,21): warning C4267:         [
+C:\c++\YaAcademy\Train\Train\Trn.cpp(14,21): warning C4267:             _Ty=int
+C:\c++\YaAcademy\Train\Train\Trn.cpp(14,21): warning C4267:         ]
+  Train.vcxproj -> C:\c++\YaAcademy\Train\x64\Debug\Train.exe
